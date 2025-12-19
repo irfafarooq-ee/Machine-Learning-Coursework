@@ -38,9 +38,7 @@ Machine-Learning-Coursework/
 
 - **Assignments/** – Machine learning assignments implemented in Google Colab notebooks.
 - **Labs/** – Hands-on lab notebooks for experimenting with ML algorithms.
-- **.gitattributes** – Git configuration file.
-- **README.md** – Project documentation.
-
+  
 ---
 
 ## 🧠 Topics Covered
